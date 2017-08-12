@@ -1,0 +1,25 @@
+﻿  traodtrajecotrydata.cpp
+d:\owncloud\edu\data\petr work\outlierdet_src\outlierdet\traodtrajecotrydata.hpp(4): fatal error C1083: Cannot open include file: 'QObject': No such file or directory
+  traodtrajecotory.cpp
+d:\owncloud\edu\data\petr work\outlierdet_src\outlierdet\traodtrajectory.hpp(4): fatal error C1083: Cannot open include file: 'QObject': No such file or directory
+  traod.cpp
+d:\owncloud\edu\data\petr work\outlierdet_src\outlierdet\traod.hpp(4): fatal error C1083: Cannot open include file: 'QObject': No such file or directory
+  trajectoryiboat.cpp
+d:\owncloud\edu\data\petr work\outlierdet_src\outlierdet\iboattrajectory.hpp(4): fatal error C1083: Cannot open include file: 'QObject': No such file or directory
+  trajecotory.cpp
+d:\owncloud\edu\data\petr work\outlierdet_src\outlierdet\traodtrajectory.hpp(4): fatal error C1083: Cannot open include file: 'QObject': No such file or directory
+  mychartview.cpp
+d:\owncloud\edu\data\petr work\outlierdet_src\outlierdet\mychartview.hpp(4): fatal error C1083: Cannot open include file: 'QtCharts/QChartView': No such file or directory
+  mychart.cpp
+d:\owncloud\edu\data\petr work\outlierdet_src\outlierdet\mychart.hpp(4): fatal error C1083: Cannot open include file: 'QtCharts/QChart': No such file or directory
+  mainwindow.cpp
+d:\owncloud\edu\data\petr work\outlierdet_src\outlierdet\mainwindow.hpp(4): fatal error C1083: Cannot open include file: 'QMainWindow': No such file or directory
+  main.cpp
+d:\owncloud\edu\data\petr work\outlierdet_src\outlierdet\mainwindow.hpp(4): fatal error C1083: Cannot open include file: 'QMainWindow': No such file or directory
+  iboattrajectorydata.cpp
+d:\owncloud\edu\data\petr work\outlierdet_src\outlierdet\iboattrajectorydata.hpp(4): fatal error C1083: Cannot open include file: 'QObject': No such file or directory
+  iboattrajectory.cpp
+d:\owncloud\edu\data\petr work\outlierdet_src\outlierdet\iboattrajectory.hpp(4): fatal error C1083: Cannot open include file: 'QObject': No such file or directory
+  iboat.cpp
+d:\owncloud\edu\data\petr work\outlierdet_src\outlierdet\iboat.hpp(4): fatal error C1083: Cannot open include file: 'QObject': No such file or directory
+  Generating Code...
